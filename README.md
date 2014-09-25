@@ -1,2 +1,3 @@
-a programer and thinker, just write some interesting things.
-======
+##my blog
+
+A programer and leaner write some self interesting things and record my life.
